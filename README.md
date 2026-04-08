@@ -121,17 +121,4 @@ GET /api/companies/{company_id}/alerts/low-stock
 
 ---
 
-## 👩‍💻 About Me
-
-I'm Chandani Dawda, a Computer Science postgraduate (M.Sc, Nagpur University) with a strong foundation in both software development and technical education.
-
-- 🎓 B.Sc — Physics, Mathematics, Computer Science (2017)
-- 🎓 M.Sc — Computer Science (2020)
-- 💼 2.5 years experience as an IT Teacher — teaching programming concepts, web technologies
-- 🌐 Skills: HTML, CSS, JavaScript, React JS, Python, SQL
-
-I am actively seeking opportunities in backend/full-stack development and am excited about Bynry's mission to modernize utility infrastructure through smart software.
-
----
-
 *Thank you for the opportunity — I look forward to the live discussion session!*
